@@ -1,4 +1,4 @@
-export const heatmap = [
+export const colors = [
   "#070707",
   "#1f0707",
   "#2f0f07",
@@ -35,3 +35,7 @@ export const heatmap = [
   "#DFDF9F",
   "#EFEFC7",
   "#FFFFFF"].reverse();
+
+
+export const BLACK = "#070707"
+export const WHITE = "#FFFFFF"
